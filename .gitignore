@@ -24,3 +24,21 @@ target
 # Added by cargo
 
 /target
+
+
+# macOS
+.DS_Store
+
+# Node.js (if any)
+node_modules/
+
+# Move build artifacts
+build/
+target/
+Move.lock
+
+# Logs
+*.log
+
+# Secrets
+.env
