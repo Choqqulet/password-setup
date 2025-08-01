@@ -1,0 +1,8 @@
+[package]
+name = "password_manager_zklogin"
+version = "0.0.1"
+edition = "2024"
+published-at = "0x0"
+
+[addresses]
+password_manager_zklogin = "0x0"
